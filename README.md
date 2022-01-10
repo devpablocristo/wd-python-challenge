@@ -10,12 +10,14 @@
 4. Edit a specific book. 
 6. Delete n copies of a specific book.
 
+#### NOTE: 
+You will find a incomplete script, use it to start.
+
 ### Details: 
 1. Inventory’s structure:
     * 1.1 Book’s title.
     * 1.2 Book’s stock (number of book copies in inventory of this specific book).
-2. You will find a incomplete script, use it to start.
-3. Your app should be able to handle this code to add more books to the bookstore.
+2. Your app should be able to handle this code to add more books to the bookstore.
 
 ``` json
 [ 
@@ -31,3 +33,5 @@
 ```
 
 Enjoy!
+
+#### Use the existing projecto to complete requirements 
