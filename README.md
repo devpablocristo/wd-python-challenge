@@ -14,7 +14,7 @@
 1. Inventory’s structure.
     * 1.1 Book’s title.
     * 1.2 Book’s stock (number of book copies in inventory of this specific book).
-2. You will find a incomplete script, use it as boilerplate.
+2. You will find a incomplete script, use it to start.
 3. Your app should be able to handle this code to add more books to the bookstore.
 
 ``` json
