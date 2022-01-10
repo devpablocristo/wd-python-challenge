@@ -1,17 +1,3 @@
-#Backend 5
-#Create a REST API for a bookstore
-#Create a web service for the bookstore inventory
-#· Add a book.
-#· List all books.
-#· Get a specific book.
-#· Edit a specific book.
-#· Delete n copies of a specific book.
-
-#· Details:
-#··· Inventory’s structure.
-#······ Book’s title.
-#······ Book’s stock (number of book copies in inventory of this specific book).
-
 import requests
 
 class Book:
