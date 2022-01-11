@@ -7,7 +7,7 @@
 1. Add books.
 2. List all books.
 3. Get a specific book.
-4. Edit a specific book. 
+4. Edit a specific book.
 5. Delete n copies of a specific book.
 
 #### NOTE
