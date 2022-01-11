@@ -17,7 +17,7 @@
 1. Inventory’s structure:
     * 1.1 Book’s title.
     * 1.2 Book’s stock (number of book copies in inventory of this specific book).
-2. Your app must be able to handle this code to add or delete books to the bookstore.
+2. Your app must be able to handle this code to add or delete books from the bookstore.
 
     ``` json
     [ 
