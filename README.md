@@ -4,12 +4,13 @@
 
 ### Requirements
 
-1. Use the existing project.
-2. Add n copies of a specific books.
-3. List all books.
-4. Get a specific book.
-5. Edit a specific book.
-6. Delete n copies of a specific book.
+#### Use the existing project to complete requirements
+
+1. Add n copies of a specific books.
+2. List all books.
+3. Get a specific book.
+4. Edit a specific book.
+5. Delete n copies of a specific book.
 
 ### Details
 
