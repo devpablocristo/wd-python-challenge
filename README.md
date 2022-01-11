@@ -4,36 +4,32 @@
 
 ### Requirements
 
-1. Add books.
+1. Add n copies of a specific books.
 2. List all books.
 3. Get a specific book.
 4. Edit a specific book.
 5. Delete n copies of a specific book.
-
-#### NOTE
-
-You will find a incomplete script, use it to start.
 
 ### Details
 
 1. Inventory’s structure:
     * 1.1 Book’s title.
     * 1.2 Book’s stock (number of book copies in inventory of this specific book).
-2. Your app should be able to handle this code to add more books to the bookstore.
+2. Your app should be able to handle this code to add or delete books to the bookstore.
 
-``` json
-[ 
-    {
-        "title": "Fundation",
-        "stock": 1
-    },
-    {
-        "title": "The Lord of the Rings",
-        "stock": 5
-    }
-]
-```
+    ``` json
+    [ 
+        {
+            "title": "Fundation",
+            "stock": 1
+        },
+        {
+            "title": "The Lord of the Rings",
+            "stock": 5
+        }
+    ]
+    ```
+
+3. Use the existing project to start
 
 Enjoy!
-
-#### Use the existing projecto to complete requirements
