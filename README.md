@@ -2,18 +2,20 @@
 
 ## Create a web service for the bookstore inventory
 
-### Requirements 
+### Requirements
 
 1. Add books.
 2. List all books.
 3. Get a specific book.
 4. Edit a specific book. 
-6. Delete n copies of a specific book.
+5. Delete n copies of a specific book.
 
-#### NOTE: 
+#### NOTE
+
 You will find a incomplete script, use it to start.
 
-### Details: 
+### Details
+
 1. Inventory’s structure:
     * 1.1 Book’s title.
     * 1.2 Book’s stock (number of book copies in inventory of this specific book).
@@ -34,4 +36,4 @@ You will find a incomplete script, use it to start.
 
 Enjoy!
 
-#### Use the existing projecto to complete requirements 
+#### Use the existing projecto to complete requirements
